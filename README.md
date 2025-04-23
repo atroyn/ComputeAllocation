@@ -6,7 +6,18 @@ This project simulates and solves the optimal control problem for allocating com
 
 This implementation is based on the research paper:
 
-- **[Economically Optimal Compute Allocation](Economically_Optimal_Compute_Allocation.pdf)**.
+- **[Economically Optimal Compute Allocation](Economically_Optimal_Compute_Allocation.pdf)**
+
+If you use this code or the results in your research, please cite the paper using the following BibTeX:
+
+```bibtex
+@misc{troynikov2025optimal,
+  title={Economically Optimal Compute Allocation},
+  author={Troynikov, Anton},
+  year={2025},
+  howpublished={\url{https://github.com/antontroynikov/ComputeAllocation}},
+}
+```
 
 ## Problem Formulation
 
