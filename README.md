@@ -2,6 +2,12 @@
 
 This project simulates and solves the optimal control problem for allocating compute resources between training new AI models and serving existing models to maximize net present value.
 
+## Research Paper
+
+This implementation is based on the research paper:
+
+- **[Economically Optimal Compute Allocation](Economically_Optimal_Compute_Allocation.pdf)**.
+
 ## Problem Formulation
 
 The problem is formulated as an optimal control problem:
